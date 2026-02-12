@@ -1,0 +1,6 @@
+** Exported Budget Report **
+----------------------------
+Income: ₹10000
+Expenses:
+food - ₹120 on 2025-07-03
+rent - ₹110 on 2025-07-03

@@ -1,0 +1,5 @@
+** Exported Budget Report **
+----------------------------
+Income: ₹100000
+Expenses:
+food - ₹120 on 2025-06-30
