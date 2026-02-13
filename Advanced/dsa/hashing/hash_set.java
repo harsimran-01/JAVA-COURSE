@@ -63,9 +63,5 @@ public class hash_set {
         }else{
             System.out.println("Hashset is not Empty");
         }
-
-        
-
-
     }
 }
