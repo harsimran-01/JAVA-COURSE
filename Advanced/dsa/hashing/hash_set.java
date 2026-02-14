@@ -16,12 +16,9 @@ public class hash_set {
         System.out.println("Printing all the Elements of Set");
         System.out.println("Basic");
         System.out.println(set);
-
         System.out.println("Printing Using Iterator");
         Iterator it = set.iterator();
-
         //two inbuilt functions = .hasNext() and .next()
-
         while(it.hasNext()){
             System.out.print(it.next() + " ");
         }
